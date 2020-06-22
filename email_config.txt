@@ -1,0 +1,8 @@
+"""api keys and emails for sending the alert email"""
+
+MAILGUN_API_KEY = 'private API key for Mailgun' 
+SANDBOX_URL= 'sandbox url for mailgun' 
+SENDER_EMAIL = 'postmaster@sandbox_url'
+RECIPIENT_EMAIL = 'receiver email id'
+API_KEY = 'Bolt Cloud accout API key'
+DEVICE_ID = 'Bolt device id' 

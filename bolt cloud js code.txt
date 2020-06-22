@@ -1,0 +1,7 @@
+setChartLibrary('google-chart');
+setChartTitle('Temperature Prediction For Pharmaceuticals');
+setChartType('predictionGraph');
+setAxisName('Time','Temperature');
+setCrosshair('True');
+mul(0.097);
+plotChart('time_stamp','temp_in');

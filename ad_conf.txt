@@ -1,0 +1,6 @@
+"""api key and device id are stored here"""
+
+API_KEY = 'Bolt Cloud account API key'
+DEVICE_ID = 'ID of the Bolt module'
+FRAME_SIZE = 10
+MUL_FACTOR = 6
